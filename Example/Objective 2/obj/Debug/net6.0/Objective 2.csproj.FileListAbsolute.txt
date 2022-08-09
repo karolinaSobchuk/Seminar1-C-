@@ -1,0 +1,15 @@
+D:\Семинар 1 С#\Example\Objective 2\bin\Debug\net6.0\Objective 2.exe
+D:\Семинар 1 С#\Example\Objective 2\bin\Debug\net6.0\Objective 2.deps.json
+D:\Семинар 1 С#\Example\Objective 2\bin\Debug\net6.0\Objective 2.runtimeconfig.json
+D:\Семинар 1 С#\Example\Objective 2\bin\Debug\net6.0\Objective 2.dll
+D:\Семинар 1 С#\Example\Objective 2\bin\Debug\net6.0\Objective 2.pdb
+D:\Семинар 1 С#\Example\Objective 2\obj\Debug\net6.0\Objective 2.csproj.AssemblyReference.cache
+D:\Семинар 1 С#\Example\Objective 2\obj\Debug\net6.0\Objective 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Семинар 1 С#\Example\Objective 2\obj\Debug\net6.0\Objective 2.AssemblyInfoInputs.cache
+D:\Семинар 1 С#\Example\Objective 2\obj\Debug\net6.0\Objective 2.AssemblyInfo.cs
+D:\Семинар 1 С#\Example\Objective 2\obj\Debug\net6.0\Objective 2.csproj.CoreCompileInputs.cache
+D:\Семинар 1 С#\Example\Objective 2\obj\Debug\net6.0\Objective 2.dll
+D:\Семинар 1 С#\Example\Objective 2\obj\Debug\net6.0\refint\Objective 2.dll
+D:\Семинар 1 С#\Example\Objective 2\obj\Debug\net6.0\Objective 2.pdb
+D:\Семинар 1 С#\Example\Objective 2\obj\Debug\net6.0\Objective 2.genruntimeconfig.cache
+D:\Семинар 1 С#\Example\Objective 2\obj\Debug\net6.0\ref\Objective 2.dll

@@ -1,0 +1,15 @@
+D:\Семинар 1 С#\Example\Objective3\bin\Debug\net6.0\Objective3.exe
+D:\Семинар 1 С#\Example\Objective3\bin\Debug\net6.0\Objective3.deps.json
+D:\Семинар 1 С#\Example\Objective3\bin\Debug\net6.0\Objective3.runtimeconfig.json
+D:\Семинар 1 С#\Example\Objective3\bin\Debug\net6.0\Objective3.dll
+D:\Семинар 1 С#\Example\Objective3\bin\Debug\net6.0\Objective3.pdb
+D:\Семинар 1 С#\Example\Objective3\obj\Debug\net6.0\Objective3.csproj.AssemblyReference.cache
+D:\Семинар 1 С#\Example\Objective3\obj\Debug\net6.0\Objective3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Семинар 1 С#\Example\Objective3\obj\Debug\net6.0\Objective3.AssemblyInfoInputs.cache
+D:\Семинар 1 С#\Example\Objective3\obj\Debug\net6.0\Objective3.AssemblyInfo.cs
+D:\Семинар 1 С#\Example\Objective3\obj\Debug\net6.0\Objective3.csproj.CoreCompileInputs.cache
+D:\Семинар 1 С#\Example\Objective3\obj\Debug\net6.0\Objective3.dll
+D:\Семинар 1 С#\Example\Objective3\obj\Debug\net6.0\refint\Objective3.dll
+D:\Семинар 1 С#\Example\Objective3\obj\Debug\net6.0\Objective3.pdb
+D:\Семинар 1 С#\Example\Objective3\obj\Debug\net6.0\Objective3.genruntimeconfig.cache
+D:\Семинар 1 С#\Example\Objective3\obj\Debug\net6.0\ref\Objective3.dll
